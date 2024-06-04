@@ -1,4 +1,4 @@
-## Boas Vindas ao meu perfil
+## Boas Vindas ao meu perfil ❤
 
 -Eu sou o José Hnerique
 - Estou estudando no Alura
@@ -6,5 +6,4 @@
 - Certificado em programação no Scratch
 - Cursista do Sistema Alura de Ensino
 - Estudante do Ensino Médio Integral na Escola Vereador Euclides Miranda
-- 
   
