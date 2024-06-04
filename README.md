@@ -6,6 +6,4 @@
 - Certificado em programação no Scratch
 - Cursista do Sistema Alura de Ensino
 - Estudante do Ensino Médio Integral
-- Gay por profissão 🌈
-- Chupador de rola por amor 💚
   
